@@ -3,7 +3,7 @@
 ## Summary
 
 
-The BigDataProcessor (BDP) enables interactive browsing of Terabyte sized Tiff and Hdf5 based image data, employing ImageJ’s VirtualStack class (LINK), where only the currently displayed image plane is loaded into RAM. 
+The BigDataProcessor (BDP) enables interactive browsing and processing of Terabyte sized Tiff and Hdf5 based image data, employing ImageJ’s VirtualStack class (LINK), where only the currently displayed image plane is loaded into RAM. 
 BDC facilitates serveral common household data processing routines aimed at shortening the (pre-)processing time spent on large image datasets. BDC supports channel (chromatic), and spatial drift correction, cropping and saving of big image data including binning and bit-depth conversion. 
 
 **Example use cases:**  
